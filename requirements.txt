@@ -1,0 +1,4 @@
+colorama==0.4.6
+Requests==2.31.0
+solana==0.33.0
+solders==0.21.0
